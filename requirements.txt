@@ -3,6 +3,5 @@ pandas
 voila
 pysqlite3
 ipywidgets
-IPython.display
-ipywidgets.embed
+IPython
 widgetsnbextension
