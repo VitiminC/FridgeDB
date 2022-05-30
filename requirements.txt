@@ -1,7 +1,7 @@
 jupyterlab
 pandas
 voila
-pysqlite
+sqlite3
 ipywidgets
 IPython.display
 ipywidgets.embed
