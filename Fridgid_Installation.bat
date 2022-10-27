@@ -1,0 +1,9 @@
+pip install jupyter
+pip install jupyterlab
+pip install voila
+pip install pysqlite3
+pip install ipywidgets
+pip install IPython
+pip install widgetsnbextension
+pip install ipython-sql
+pip install tabulate
